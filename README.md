@@ -1,4 +1,10 @@
 # heroku-buildpack-jvm-takipi
+This buildpack is an old version - not in use anymore. 
+use the [current](https://github.com/takipi/heroku-buildpack-takipi.git) version  
+
+
+
+### heroku-buildpack-jvm-takipi
 
 Creating a cedar stack application with this buildpack will install Takipi alonside the default
 JVM specific language needed to run your application. We support the [Java](https://github.com/heroku/heroku-buildpack-java),
