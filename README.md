@@ -1,6 +1,6 @@
 # heroku-buildpack-jvm-takipi
 DEPRECATED -
-use the [current](https://github.com/takipi/heroku-buildpack-takipi.git) version  
+Use the [current](https://github.com/takipi/heroku-buildpack-takipi.git) version  
 
 
 
