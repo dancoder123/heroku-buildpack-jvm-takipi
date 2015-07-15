@@ -1,5 +1,5 @@
 # heroku-buildpack-jvm-takipi
-This buildpack is an old version - not in use anymore. 
+DEPRECATED -
 use the [current](https://github.com/takipi/heroku-buildpack-takipi.git) version  
 
 
